@@ -7,7 +7,9 @@ import java.util.List;
 class Main {
 
 
-    System.out.println("Cześć Wszystkim"):
+    System.out.println("Cześć Wszystkim i siemanko "):
+
+    int num = 9;
 
     public static void main(String[] lotteryGame) {
         NumberReceiver numberReceiver = new NumberReceiver();
